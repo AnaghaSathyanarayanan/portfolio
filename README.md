@@ -21,7 +21,7 @@ influencing house sale prices across the state. Utilizing a dataset containing h
 ### Interactive Dashboard using Microsot Excel
 [Link](https://drive.google.com/drive/folders/12vo-xq7MK0ROgNfGoiyGaCP0CciFviiW?usp=drive_link)
 
-Developed an interactive sales dashboard utilizing pivot tables, charts, timelines, and slicers is the aim of this activity. Users of this sales dashboard will be able to
+Developed an interactive sales dashboard utilizing pivot tables, charts, timelines, and slicers. Users of this sales dashboard will be able to
 acquire insights into sales trends, product performance, and time-based variations by efficiently visualizing the sales statistics.
 
 
