@@ -20,10 +20,22 @@
 
 ## 💼 **Projects**  
 
+Netflix Analysis Dashboard using Tableau
+[Link]
+
+An interactive dashboard showcasing insights on Netflix's content library, viewer trends, and regional performance. Features include genre-based analysis, release year trends, and audience engagement metrics. 
+
 ### 📊 **Stock Market Dashboard using Tableau**  
 **[🔗 View Project](https://drive.google.com/file/d/1UdCtYOjaZF3QiWFphLGTBbdjjYP3NKkm/view?usp=sharing)**  
 - **Overview**: Interactive dashboard analyzing stock performance using historical prices, market trends, sector analysis, and trading volumes.  
-- **Features**: Time-series visualizations, sector comparisons, and detailed exploration filters.  
+- **Features**: Time-series visualizations, sector comparisons, and detailed exploration filters.
+
+---
+
+### 🎥 **Netflix Dashboard** 📊  
+**[🔗 View Project](https://drive.google.com/file/d/1e6GWLCdJhro0CBkevWuYPKiAG7aC8YkK/view?usp=sharing)**  
+
+An interactive Tableau dashboard analyzing Netflix's content trends, genres, and regional performance. Features include release year trends and audience insights.  
 
 ---
 
