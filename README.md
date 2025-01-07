@@ -20,10 +20,21 @@
 
 ## 💼 **Projects**  
 
+
+### 🏦 **Loan Default Prediction EDA using Python**  
+**[🔗 View Project](https://drive.google.com/drive/folders/1u0T-WNsxHMP-E6vnEAZN4YPc8ll2gN0o?usp=drive_link)**  
+- **Problem**: Banks face losses due to customers defaulting on loans, impacting economic growth.  
+- **Solution**: Analyzed attributes like funded amount, location, and balance to predict defaulters.  
+- **Dataset**: 87,501 rows, 30 columns of real banking client data.  
+
+---
+
 Netflix Analysis Dashboard using Tableau
 [Link]
 
 An interactive dashboard showcasing insights on Netflix's content library, viewer trends, and regional performance. Features include genre-based analysis, release year trends, and audience engagement metrics. 
+
+---
 
 ### 📊 **Stock Market Dashboard using Tableau**  
 **[🔗 View Project](https://drive.google.com/file/d/1UdCtYOjaZF3QiWFphLGTBbdjjYP3NKkm/view?usp=sharing)**  
@@ -61,14 +72,6 @@ An interactive Tableau dashboard analyzing Netflix's content trends, genres, and
 - **Insights**:  
   - Visualize sales statistics effectively.  
   - Explore trends, product performance, and time-based variations.  
-
----
-
-### 🏦 **Loan Default Prediction EDA using Python**  
-**[🔗 View Project](https://drive.google.com/drive/folders/1u0T-WNsxHMP-E6vnEAZN4YPc8ll2gN0o?usp=drive_link)**  
-- **Problem**: Banks face losses due to customers defaulting on loans, impacting economic growth.  
-- **Solution**: Analyzed attributes like funded amount, location, and balance to predict defaulters.  
-- **Dataset**: 87,501 rows, 30 columns of real banking client data.  
 
 ---
 
